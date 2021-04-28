@@ -1,0 +1,46 @@
+.titulo{
+    font-size: 60px;
+    margin-bottom: 15px;
+
+}
+
+.copy{
+    font-weight: 300;
+    font-size: 25px;
+
+}
+
+    /* servicio */
+.subtitulo{
+    text-align: center;
+    font-weight: 300;
+    color: #097c91;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+.contenedor-servicio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenedor-servicio img{
+    width: 300px;
+    margin: 20px;
+}
+
+.checklist-servicios{
+    width: 45%;
+
+}
+
+.services{
+    margin-bottom: 20px;
+}
+
+.n-service{
+    margin-bottom: 7px;
+    color: #097c91;
+}

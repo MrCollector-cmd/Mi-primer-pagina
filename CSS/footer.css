@@ -1,0 +1,79 @@
+footer{
+    background: #38f9d66b;
+    padding-bottom: 0.1px;
+    
+}
+
+.footer-content{
+    position: relative;
+    float: inline-start;
+    top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contat-us{
+    width: 0%;
+    color: black;
+}
+
+.brand{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.brand+p{
+    font-weight: 500;
+}
+
+
+
+.sosial-media{
+    float: none;
+    position: relative;
+    bottom: 35px;
+    width: 90%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sosial-media-icon{
+    display: inline-block;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    color: black;
+}
+
+.sosial-media-icon:hover{
+    background: black;
+    color: #38f9d66b;
+
+
+}
+
+.sosial-media-icon i{
+    font-size: 30px;
+    line-height: 49px;
+}
+
+.line{
+    position: relative;
+    float: inline;
+    width: 90%;
+    max-width: 1200;
+    margin: 0 auto;
+    height: 2px;
+    background: black;
+    margin-bottom: 20px;
+    
+
+}
